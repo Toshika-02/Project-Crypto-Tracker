@@ -40,6 +40,7 @@ function CoinPage() {
       }
     }
   };
+  
 
   const handleDaysChange = async (event) => {
     setLoading(true);

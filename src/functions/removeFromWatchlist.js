@@ -16,4 +16,5 @@ export const removeFromWatchlist = (id) => {
   } else {
     toast.error("Couldnt remove the coin from the watchlist!");
   }
+  
 };

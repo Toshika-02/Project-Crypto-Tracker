@@ -80,6 +80,7 @@ function Grid({ coin, delay, isWatchlistPage }) {
             <TrendingDownRoundedIcon className="trending-icon red" />
           </div>
         )}
+        
         <p
           className={`coin-price ${
             coin.price_change_percentage_24h < 0 && "coin-price-red"

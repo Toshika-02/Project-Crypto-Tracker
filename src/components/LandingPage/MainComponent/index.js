@@ -28,7 +28,6 @@ function LandingPageComponent() {
           className="heading-2"
           initial={{ opacity: 0.8, x: 30 }}
           animate={{ opacity: 1, x: 0.8 }}
-          // transition={{ duration: 0.5, delay: 0.1 }}
           transition={{
             type: "smooth",
             repeatType: "mirror",

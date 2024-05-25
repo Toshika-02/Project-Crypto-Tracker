@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import Button from "../components/Common/Button";
-// import Footer from "../components/Common/Footer";
 import Header from "../components/Common/Header";
 import Loader from "../components/Common/Loader/loader";
 import TabsComponent from "../components/Dashboard/Tabs";

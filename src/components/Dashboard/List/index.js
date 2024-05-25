@@ -132,4 +132,5 @@ function List({ coin, delay, isWatchlistPage }) {
   );
 }
 
+
 export default List;

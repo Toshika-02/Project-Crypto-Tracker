@@ -12,6 +12,7 @@ function CoinInfo({ name, desc }) {
     desc.length > 400
       ? desc + "<p style='color:var(--grey);cursor:pointer;'>Read Less...</p>"
       : desc;
+      
 
   return (
     <div className="grey-wrapper">
